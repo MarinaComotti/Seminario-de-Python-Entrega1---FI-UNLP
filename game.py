@@ -22,7 +22,6 @@ for i in range(0, times):
     #Se asegura que la división no sea por 0
     while operator == "/" and number_2 == 0:
         number_2 = randrange(10)
-        operator = choice(operators)
 
 
     # Se imprime la cuenta.
