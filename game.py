@@ -58,5 +58,5 @@ total_time = end_time - init_time
 # Mostramos ese tiempo en segundos.
 print(f"\n Tardaste {total_time.seconds} segundos.")
 
-print(f"Tuviste {count_correct} respuestas correctas y {count_incorrect} respuestas incorrectas")
+print(f"Tuviste {count_correct} respuestas correctas y {count_incorrect} respuestas incorrectas.")
 
